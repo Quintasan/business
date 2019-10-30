@@ -1,4 +1,4 @@
-## 1.17.0 - September 2, 2019
+## 1.17.0 - October 30, 2019
 
 - Add holiday calendar for France (Target(SEPA) + French bank holidays)
 
